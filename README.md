@@ -1,6 +1,8 @@
-This dataset contains occurrences of hepatitis in people.
+This dataset contains occurrences of hepatitis in people. 
 
 ## Data
+
+This dataset was found on [OpenML - hepatitis](https://www.openml.org/d/55)
 
 Donor: G.Gong (Carnegie-Mellon University) via Bojan Cestnik Jozef Stefan Institute Jamova 39 61000 Ljubljana Yugoslavia
 
@@ -19,15 +21,13 @@ Data is located in directory `data`
 
 ## Preparation
 
-Data wrangling contains:
-* transforming yes and no values into true and false.
-* replacing ? with "" (empty space)
+This script should be run using Python 3.
 
 Scripts are in directory `scripts`
 
 `scripts/main.py`
 
-## Licence
+## License
 Licensed under the [Public Domain Dedication and Licence][pddl] (assuming
 either no rights or public domain licence in source data).
 
