@@ -17,7 +17,7 @@ Donor: G.Gong (Carnegie-Mellon University) via Bojan Cestnik Jozef Stefan Instit
 
 Data is located in directory `data`
 
-`data/dermatology.csv`
+`data/hepatitis.csv`
 
 ## Preparation
 
